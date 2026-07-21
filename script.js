@@ -9,8 +9,7 @@ const apikey="b0e788149d19b75299b444b0d9f36c14";
 
 searchButton.addEventListener("click", () => {
     alert("you entered in: " + cityinput.value);
-    // Add your weather API call logic he
-
+    // Add your weather API call logic 
 
 const city=cityinput.value;
 if (city===""){
