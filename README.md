@@ -7,6 +7,6 @@
 -> Weather Api link:-  https://openweathermap.org/api
 
 
-# Main challenge i face :-
+# Main challenge i faced :-
 
 -> The main problem i face in this project is in the javascript to fetch the data from site through Api calling .
